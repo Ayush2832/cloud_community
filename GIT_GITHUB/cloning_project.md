@@ -1,0 +1,1 @@
+### In this file we will dicuss how you can contribute to someones project from the github
