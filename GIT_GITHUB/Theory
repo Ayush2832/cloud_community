@@ -1,18 +1,18 @@
-GIT:----------------
+* GIT:----------------
 Git is a distributed version control system (VCS) that helps developers track and manage changes to their code or any other set of files. 
 It was created by Linus Torvalds in 2005 and has since become one of the most widely used version control systems in the software development industry.
 
 Git allows you to track and manage changes to your code or any other files. It helps you collaborate with others, keep a history of changes, 
 and manage different versions of your work.
 
-GIT HUB:--------------
+* GIT HUB:--------------
 GitHub is a web-based platform built on top of Git. It provides hosting for Git repositories, along with collaboration and project management tools.
 GitHub allows multiple people to work on the same project, track issues, and host open-source code for public access.
 
 VCS:------------------
 Version control, also known as source control or revision control, is a system that allows you to manage and track changes to files and code over time.
 
-:-----------------------Why linus torvald made git
+* Why linus torvald made git:-------
 Early 2005: Linus Torvalds was managing the Linux kernel project, which was growing rapidly and becoming more complex. 
 He was using the proprietary version control system BitKeeper to manage the kernel's source code. However, 
 BitKeeper was no longer available for free to the Linux kernel development community, causing a problem for Torvalds and other kernel developers.
