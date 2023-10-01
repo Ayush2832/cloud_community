@@ -2,7 +2,7 @@
 * First fork this repo.
 * Then clone the fork repository. For this open git bash and type
   $ `git clone <repo_url>`
-  (for url go to main page of the repo and click on <code> and copy url)
+  (for url go to main page of the repo and click on `<code>` and copy url)
 * now in git bash, open folder and make a new branch
 * to make a branch: $ `git branch your_branch_name`
 * then switch to your branch: $ `git checkout your_branch_name`
