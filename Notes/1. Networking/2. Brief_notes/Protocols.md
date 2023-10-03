@@ -47,7 +47,7 @@
 
 #### 2. Transport layer protocol
 
-<img src="https://i.pinimg.com/originals/53/3d/89/533d891d1f54a2481d5fb14d31ec7f29.jpg" width= '200'><BR/>
+<img src="https://i.pinimg.com/originals/53/3d/89/533d891d1f54a2481d5fb14d31ec7f29.jpg" width= '200' class ='center'><BR/>
 
 
 - Transmission Control Protocol (TCP):</BR>
