@@ -40,13 +40,15 @@
 --  DHCP is a network protocol that automates the process of assigning IP addresses and other network configuration settings to devices on a network.<br/>
 -- When you turn on your computer and connect to your home Wi-Fi, DHCP ensures your computer gets an IP address, subnet mask, default gateway, and DNS server addresses without you needing to set them manually.<br/>
 
-- <U><b>TCP</b></U>: <BR/>
+- <U><b>FTP</b></U>: <BR/>
 -- FTP (File Transfer Protocol) is a standard network protocol used for transferring files between a client (your computer) and a server (a remote computer).<BR/>
 -- It allows you to upload files from your computer to a remote server (upload) or download files from a server to your computer (download). 
 
 
 #### 2. Transport layer protocol
+
 <img src="https://i.pinimg.com/originals/53/3d/89/533d891d1f54a2481d5fb14d31ec7f29.jpg" width= '200'><BR/>
+
 
 - Transmission Control Protocol (TCP):</BR>
 It will ensure that data will reach its destination and not get corrupted on the way.
