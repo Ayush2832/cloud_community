@@ -34,7 +34,7 @@ Key points to remember.
 
 - Your web browser initiates a request to access the Amazon.in website.
 
-- For that it uses the HTTP or HTTPS [protocol](/Notes/1.%20Networking/2.%20Brief_notes/Protocols.md) (typically HTTPS for secure communication) at this layer.
+- For that it uses the HTTP or HTTPS [protocol](/1.%20Notes/1.%20Networking/2.%20Brief_notes/1.%20Protocols.md) (typically HTTPS for secure communication) at this layer.
 
 - In short in application layer, you made request, here its Amazon.in, and then data will encapsulated with http header and passed down to transport layer.
 
