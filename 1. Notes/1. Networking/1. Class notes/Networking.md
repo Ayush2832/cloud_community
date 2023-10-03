@@ -30,7 +30,7 @@ Key points to remember.
 
 ## 1. Application Layer:
 
-- [DNS]() (Domain Name System) resolves the human-readable "Amazon.in" to an IP address.
+- [DNS](/1.%20Notes/1.%20Networking/2.%20Brief_notes/2.%20DNS.md) (Domain Name System) resolves the human-readable "Amazon.in" to an IP address.
 
 - Your web browser initiates a request to access the Amazon.in website.
 
