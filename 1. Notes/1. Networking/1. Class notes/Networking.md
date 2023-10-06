@@ -4,9 +4,9 @@
 
 | Topics |-|
 |------- |--|
-|Protocols| application layer(Http, stmp, ftp), Transport(tcp/udp) and network layer(ip)|
-|Ports | eg Http - 80, Https - 443 etc |
-|DNS, DHCP|DHCP is mentioned in protocols
+|[Protocols](/1.%20Notes/1.%20Networking/2.%20Brief_notes/1.%20Protocols.md)| application layer(Http, stmp, ftp), Transport(tcp/udp) and network layer(ip)|
+|[Ports](/1.%20Notes/1.%20Networking/2.%20Brief_notes/3.%20Port.md) | eg Http - 80, Https - 443 etc |
+|[DNS](/1.%20Notes/1.%20Networking/2.%20Brief_notes/2.%20DNS.md), [DHCP](/1.%20Notes/1.%20Networking/2.%20Brief_notes/1.%20Protocols.md)|DHCP is mentioned in protocols
 |IP and its classes|what is IP and its classes
 |Subnetting and Subnetmasking|Subnetting is mentioned in IP address
 |CIDR|Same as above
