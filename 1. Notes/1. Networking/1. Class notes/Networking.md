@@ -1,6 +1,19 @@
 # Networking
+- <b> I suggest you to watch video first for TCP/IP model - [here](https://youtu.be/3kfO61Mensg) then read this file.</b>
+- Main topics we need to focus are
 
-Key points to remember.
+| Topics |-|
+|------- |--|
+|Protocols| application layer(Http, stmp, ftp), Transport(tcp/udp) and network layer(ip)|
+|Ports | eg Http - 80, Https - 443 etc |
+|DNS, DHCP|DHCP is mentioned in protocols
+|IP and its classes|what is IP and its classes
+|Subnetting and Subnetmasking|Subnetting is mentioned in IP address
+|CIDR|Same as above
+
+- These topics are metioned below in the steps. Click on them to read more.
+
+### Key points to remember.
 - TCP/IP model is a conceptual model
 
 - We know computer network is all about data transfer.
@@ -12,6 +25,8 @@ Key points to remember.
 - These functionalities are organized into seven layers within the TCP/IP model.
 
 - These functionalities are built into our operating system.. 
+
+
 
 -----------------------------------
 
@@ -48,7 +63,7 @@ Key points to remember.
 
 - Inside Tranport layer header, there are:
 
-| Protocol | [Port]() number 1 | Port number 2 |
+| Protocol | [Port](/1.%20Notes/1.%20Networking/2.%20Brief_notes/3.%20Port.md) number 1 | Port number 2 |
 | ----------------- | -------------- | ------ |
 | TCP OR UDP protocol | Source Port number | destination port number |
 
@@ -66,7 +81,7 @@ Key points to remember.
 
 | Protocol | IP address | IP address |
 | -------- | ------------------| ---------------------- |
-| Internet protocol | Source IP address | Destination IP address |
+| Internet protocol(IP) | Source IP address | Destination IP address |
 
 ## 4. Data Link Layer:
 
@@ -74,14 +89,17 @@ Key points to remember.
 
 - Trailer is less common in modern networking protocols. However, in some older networking technologies, a trailer is added at the end of the frame
 
-- Each frames contains the source and destination [MAC]() (Media Access Control) addresses.
+- Each frames contains the source and destination MAC (Media Access Control) addresses.
+
+- <B>MAC</B>: When a device is built, the manufacturer programs a unique MAC address into the hardware of the NIC or network adapter. For every device it is unique. 
 
 | Address | Address |
 |---------|--------|
 |Source MAC address| Desinaion router MAC address |
 
-- Here I write the desination router MAC address, but how the data link layer know that address. For that he use the protocol called [ARP]() 
-
+- Here I write the desination router MAC address, but how the data link layer know that address. For that he use the protocol called ARP 
+-------------------------
+### You can skip the Physical layer part.
 ## 5. Physical Layer:
 - The frames are sent over the physical medium in the form of bits, which could be Wi-Fi, Ethernet, or another type of network connection.
 
