@@ -71,7 +71,7 @@
 
 - Here in network layer, data is divided into packets and each data packet is encapsulated with network layer header. Then packets are passed down to Data Link Layer.
 
-- At this layer, the destination [IP address]() (in this case, Amazon's server IP) is determined.
+- At this layer, the destination [IP address](/1.%20Notes/1.%20Networking/2.%20Brief_notes/IP%20pdf%201.pdf) (in this case, Amazon's server IP) is determined.
 
 - We are using Internet Protocol. 
 
