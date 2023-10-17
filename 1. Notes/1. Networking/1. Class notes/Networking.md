@@ -7,7 +7,7 @@
 |[Protocols](/1.%20Notes/1.%20Networking/2.%20Brief_notes/1.%20Protocols.md)| application layer(Http, stmp, ftp), Transport(tcp/udp) and network layer(ip)|
 |[Ports](/1.%20Notes/1.%20Networking/2.%20Brief_notes/3.%20Port.md) | eg Http - 80, Https - 443 etc |
 |[DNS](/1.%20Notes/1.%20Networking/2.%20Brief_notes/2.%20DNS.md), [DHCP](/1.%20Notes/1.%20Networking/2.%20Brief_notes/1.%20Protocols.md)|DHCP is mentioned in protocols
-|IP and its classes|what is IP and its classes
+|[IP](/1.%20Notes/1.%20Networking/2.%20Brief_notes/84868bb016b8482ca99e3937e04e81d6.md) and its classes|what is IP and its classes
 |Subnetting and Subnetmasking|Subnetting is mentioned in IP address
 |CIDR|Same as above
 
@@ -71,7 +71,7 @@
 
 - Here in network layer, data is divided into packets and each data packet is encapsulated with network layer header. Then packets are passed down to Data Link Layer.
 
-- At this layer, the destination [IP address](/1.%20Notes/1.%20Networking/2.%20Brief_notes/IP%20pdf%201.pdf) (in this case, Amazon's server IP) is determined.
+- At this layer, the destination [IP address](/1.%20Notes/1.%20Networking/2.%20Brief_notes/84868bb016b8482ca99e3937e04e81d6.md) (in this case, Amazon's server IP) is determined.
 
 - We are using Internet Protocol. 
 
